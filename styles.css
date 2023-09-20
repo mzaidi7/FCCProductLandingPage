@@ -185,11 +185,6 @@
   
   /*content*/
   
-  @media (min-width: 1200px) {
-    body {
-        background-color: rgb(255, 255, 255);
-    }
-  }
   
   /* FOOTER */
   #main-footer {
@@ -246,8 +241,8 @@
     }
   
     #how-it-work #video {
-      width: 80%;
-      height: 30%;
+      width: 60%;
+      height: 60%;
     }
   
     #pricing {
